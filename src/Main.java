@@ -28,6 +28,6 @@ public class Main {
             GameService gameService = new GameManager();
                 gameService.add(valorant);
                 gameService.buy(valorant,erhan);
-
+                System.out.println("--------------");
     }
 }
